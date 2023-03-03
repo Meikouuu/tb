@@ -2,7 +2,7 @@
 
 ---
 
-see at [main.py](https://github.com/Meikouuu/tb/blob/main/main.py) files for source code!
+source: [main.py](https://github.com/Meikouuu/tb/blob/main/main.py)
 
 
 
