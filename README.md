@@ -1,4 +1,4 @@
-### Thai style like base64 but it's thai char and number!!
+### Thai style base64 but it's thai char and number!!
 
 ---
 
